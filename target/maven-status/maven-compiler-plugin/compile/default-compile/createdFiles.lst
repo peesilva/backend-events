@@ -1,1 +1,6 @@
+com\example\estoque\car\CarRequestDTO.class
+com\example\estoque\car\CarRepository.class
+com\example\estoque\controller\CarController.class
+com\example\estoque\car\Car.class
+com\example\estoque\car\CarResponseDTO.class
 com\example\estoque\EstoqueApplication.class

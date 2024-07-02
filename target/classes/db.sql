@@ -1,5 +1,5 @@
-CREATE TABLE car (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    title VARCHAR(255) NOT NULL,
-    price DECIMAL(10, 2) NOT NULL,
-    image VARCHAR(255);
+CREATE TABLE eventos (
+    uuid INT AUTO_INCREMENT PRIMARY KEY,
+    companyId VARCHAR(255) NOT NULL,
+    number DECIMAL(10, 2) NOT NULL,
+    url VARCHAR(255));
